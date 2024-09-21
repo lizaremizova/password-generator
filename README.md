@@ -8,6 +8,8 @@ This program is designed to generate random passwords of a specified length. Pas
 - Ability to use letters, digits, and special characters in passwords.
 - Simple and intuitive console application.
 
+## Program was made for running pytests
+
 ## Getting Started
 
 To use this program, you will need Python version 3.6 or higher.
