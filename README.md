@@ -1,29 +1,24 @@
-# Программа генерации случайных паролей
+# Password Generation Program
 
-Эта программа предназначена для генерации случайных паролей с заданным количеством символов. Пароли могут содержать буквы верхнего и нижнего регистра, цифры и специальные символы.
+This program is designed to generate random passwords of a specified length. Passwords can contain uppercase and lowercase letters, digits, and special characters.
 
-## Особенности
+## Features
 
-- Генерация случайных паролей заданной длины.
-- Возможность использовать буквы, цифры и специальные символы в паролях.
-- Простое и понятное консольное приложение.
+- Generation of random passwords of a specified length.
+- Ability to use letters, digits, and special characters in passwords.
+- Simple and intuitive console application.
 
-## Начало работы
+## Getting Started
 
-Для использования этой программы вам понадобится Python версии 3.6 или выше.
+To use this program, you will need Python version 3.6 or higher.
 
-## Запуск тестов
+## Running Tests
 
-Тесты написаны с использованием библиотеки pytest. Для установки введите:
+Tests are written using the pytest library. To install, enter:
 ```bash
 pip install pytest
 ```
-
-Затем вы можете запустить тесты из корневой директории проекта следующей командой:
+Then, you can run the tests from the project's root directory using the following command:
 ```bash
 pytest
 ```
-
-## Автор
-
-## new branch
