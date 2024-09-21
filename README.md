@@ -22,5 +22,10 @@ Then, you can run the tests from the project's root directory using the followin
 ```bash
 pytest
 ```
+To create HTML coverage report enter:
+
+```bash
+pytest --cov=. --cov-report html
+```
 
 ## (main branch)
